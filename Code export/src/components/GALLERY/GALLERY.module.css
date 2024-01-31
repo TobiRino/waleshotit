@@ -1,0 +1,725 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 943px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.navMenu {
+  position: absolute;
+  left: 415px;
+  top: 73px;
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 50px;
+}
+.pACKAGES {
+  color: #000;
+  font-size: 10px;
+  font-weight: 300;
+  font-family: LEMON MILK, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.21em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contactUs {
+  color: #000;
+  font-size: 10px;
+  font-weight: 300;
+  font-family: LEMON MILK, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.21em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ourGears {
+  color: #000;
+  font-size: 10px;
+  font-weight: 300;
+  font-family: LEMON MILK, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.21em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.gallery {
+  color: #000;
+  font-size: 10px;
+  font-weight: 300;
+  font-family: LEMON MILK, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.21em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle22 {
+  position: absolute;
+  left: 926px;
+  top: 65px;
+  width: 100px;
+  height: 31px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  border-radius: 5px;
+}
+.bOOKNOW {
+  color: #000;
+  font-size: 10px;
+  font-weight: 300;
+  font-family: LEMON MILK, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.21em;
+  position: absolute;
+  left: 939px;
+  top: 73px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  top: 824px;
+  width: 1440px;
+  height: 503px;
+  background-color: #fff;
+}
+.rectangle61 {
+  position: absolute;
+  left: -658px;
+  top: 415.1086px;
+  width: 258.848px;
+  height: 157.7839px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle61.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle62 {
+  position: absolute;
+  left: -658px;
+  top: 415.1086px;
+  width: 258.848px;
+  height: 157.7839px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle62.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle63 {
+  position: absolute;
+  left: -400.1035px;
+  top: 415.1086px;
+  width: 258.848px;
+  height: 157.7839px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle63.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle64 {
+  position: absolute;
+  left: -400.1035px;
+  top: 415.1086px;
+  width: 258.848px;
+  height: 157.7839px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle64.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle67 {
+  position: absolute;
+  left: -400.1035px;
+  top: 415.1086px;
+  width: 258.848px;
+  height: 157.7839px;
+  background-color: #042b3ca8;
+}
+.rectangle68 {
+  position: absolute;
+  left: -400.1035px;
+  top: 415.1086px;
+  width: 258.848px;
+  height: 157.7839px;
+  background-color: #042b3ca8;
+}
+.rectangle13 {
+  position: absolute;
+  left: -370.793px;
+  top: 423.3587px;
+  width: 110.3456px;
+  height: 22.1722px;
+  border-radius: 2.5782px;
+  background-image: linear-gradient(91.1deg, #ffff 0%, #fff0 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.eventShots {
+  color: #000;
+  font-size: 13.9398px;
+  line-height: 152.6%;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: -350.6836px;
+  top: 423.8744px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle132 {
+  position: absolute;
+  left: -370.793px;
+  top: 423.3587px;
+  width: 110.3456px;
+  height: 22.1722px;
+  border-radius: 2.5782px;
+  background-image: linear-gradient(91.1deg, #ffff 0%, #fff0 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.eventShots2 {
+  color: #000;
+  font-size: 13.9398px;
+  line-height: 152.6%;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: -350.6836px;
+  top: 423.8744px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle133 {
+  position: absolute;
+  left: -629.6875px;
+  top: 423.3587px;
+  width: 109.8299px;
+  height: 22.1722px;
+  border-radius: 2.5782px;
+  background-image: linear-gradient(91.1deg, #ffff 0%, #fff0 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.eventShots3 {
+  color: #000;
+  font-size: 13.9398px;
+  line-height: 152.6%;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: -609.6721px;
+  top: 423.8744px;
+  width: 69.7985px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle134 {
+  position: absolute;
+  left: -629.6875px;
+  top: 423.3587px;
+  width: 109.8299px;
+  height: 22.1722px;
+  border-radius: 2.5782px;
+  background-image: linear-gradient(91.1deg, #ffff 0%, #fff0 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.eventShots4 {
+  color: #000;
+  font-size: 13.9398px;
+  line-height: 152.6%;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: -609.6721px;
+  top: 423.8744px;
+  width: 69.7985px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle155 {
+  position: absolute;
+  left: 358px;
+  top: 199px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle155.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle160 {
+  position: absolute;
+  left: 213px;
+  top: 199px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle160.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle163 {
+  position: absolute;
+  left: 68px;
+  top: 199px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle163.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle161 {
+  position: absolute;
+  left: 938px;
+  top: 199px;
+  width: 145px;
+  height: 240px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle161.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle156 {
+  position: absolute;
+  left: 503px;
+  top: 199px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle156.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle157 {
+  position: absolute;
+  left: 648px;
+  top: 199px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle157.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle158 {
+  position: absolute;
+  left: 793px;
+  top: 199px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle158.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle159 {
+  position: absolute;
+  left: 1083px;
+  top: 199px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle159.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle162 {
+  position: absolute;
+  left: 1228px;
+  top: 199px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle162.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1552 {
+  position: absolute;
+  left: 358px;
+  top: 344px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1552.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1622 {
+  position: absolute;
+  left: 358px;
+  top: 489px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1622.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle169 {
+  position: absolute;
+  left: 358px;
+  top: 634px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle169.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1602 {
+  position: absolute;
+  left: 213px;
+  top: 344px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1602.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle179 {
+  position: absolute;
+  left: 68px;
+  top: 344px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle179.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1632 {
+  position: absolute;
+  left: 213px;
+  top: 489px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1632.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle180 {
+  position: absolute;
+  left: 68px;
+  top: 489px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle180.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle170 {
+  position: absolute;
+  left: 213px;
+  top: 634px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle170.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle181 {
+  position: absolute;
+  left: 68px;
+  top: 634px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle181.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1612 {
+  position: absolute;
+  left: 938px;
+  top: 439px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1612.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle164 {
+  position: absolute;
+  left: 938px;
+  top: 584px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle164.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle171 {
+  position: absolute;
+  left: 938px;
+  top: 729px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle171.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1562 {
+  position: absolute;
+  left: 648px;
+  top: 344px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1562.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle165 {
+  position: absolute;
+  left: 503px;
+  top: 489px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle165.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle172 {
+  position: absolute;
+  left: 503px;
+  top: 634px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle172.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1572 {
+  position: absolute;
+  left: 503px;
+  top: 344px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1572.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle166 {
+  position: absolute;
+  left: 648px;
+  top: 489px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle166.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle173 {
+  position: absolute;
+  left: 648px;
+  top: 634px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle173.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1582 {
+  position: absolute;
+  left: 793px;
+  top: 344px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1582.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle167 {
+  position: absolute;
+  left: 793px;
+  top: 489px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle167.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle174 {
+  position: absolute;
+  left: 793px;
+  top: 634px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle174.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1592 {
+  position: absolute;
+  left: 1083px;
+  top: 344px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1592.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle176 {
+  position: absolute;
+  left: 1228px;
+  top: 344px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle176.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle168 {
+  position: absolute;
+  left: 1083px;
+  top: 489px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle168.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle177 {
+  position: absolute;
+  left: 1228px;
+  top: 489px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle177.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle175 {
+  position: absolute;
+  left: 1083px;
+  top: 634px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle175.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle178 {
+  position: absolute;
+  left: 1228px;
+  top: 634px;
+  width: 145px;
+  height: 145px;
+  background-color: #d9d9d9;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle178.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.WaleShotItStudio {
+  color: #000;
+  font-size: 13.9398px;
+  line-height: 152.6%;
+  font-family: Proxima Nova, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 68px;
+  top: 873px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
